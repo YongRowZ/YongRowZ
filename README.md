@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://vk.com/yongrow" target="_blank">Yong Row</a> 
+<h1 align="center">Yong Row 
 
 🔧🔩 Languages and Tools :
 <div>
